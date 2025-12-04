@@ -36,3 +36,5 @@ Git [git](https://ru.wikipedia.org/wiki/Git)
 ``const a = 1;``
 ``const b = 2;``
 ``alert(a + b);``
+
+:blue_heart:
