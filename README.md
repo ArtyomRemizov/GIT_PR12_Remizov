@@ -31,3 +31,8 @@ _крупнейший **веб-сервис** для ~~хостинга~~ IT-п�
 |USA|5000000|1|
 
 Git [git](https://ru.wikipedia.org/wiki/Git)
+
+javascript
+``const a = 1;
+const b = 2;
+alert(a + b);``
