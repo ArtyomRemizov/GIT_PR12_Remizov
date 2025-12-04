@@ -32,7 +32,7 @@ _крупнейший **веб-сервис** для ~~хостинга~~ IT-п�
 
 Git [git](https://ru.wikipedia.org/wiki/Git)
 
-javascript
-``const a = 1;
-const b = 2;
-alert(a + b);``
+
+``const a = 1;``
+``const b = 2;``
+``alert(a + b);``
